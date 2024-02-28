@@ -1,0 +1,18 @@
+1 -
+2 - pacotes instalados localmente
+3 - invoca uma entidade c a partir do modulu b no pacote a
+4 - from mod import fun
+5 - 
+6 - py_cache
+7 -  1
+8 - 
+9 - todas as pesquisas estão limitadas localmente / 
+10 - System Platform / Version Platform versão s.o
+11 - pyc - código python compilado
+12 - permite que instale uma versão  especifica do pacote / 
+13 - pip uninstall package
+14 -
+15 -
+16 - dir()
+17 - mod.fun()
+18 - 11,12,21,22
