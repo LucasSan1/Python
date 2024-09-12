@@ -19,7 +19,7 @@ def login():
 
 
     if n == N and s == S:
-      return ('Aguarde enquanto é logado')
+      return 'Aguarde enquanto é logado'
     else: 
       return 'Nome ou Senha incorretos'
   
